@@ -1,4 +1,4 @@
-## huggingface
+## Huggingface
 1. Sign up to [https://huggingface.co/](https://huggingface.co/).
 2. In the top‑right corner, click the ➕ icon → **New Space**.
 3. **Name**: enter `dproxy` (or any name you prefer).
@@ -11,6 +11,10 @@
    Events playlist is accessible via: **https://username-dproxy.hf.space/playlist/events**. (Refresh playlist from your iptv player to update)
 10. Enjoy! </br>
 Note: To update the proxy for new changes, click on **Settings** then click on **Factory rebuild**.
+
+## Vercel
+1. Sign up to https://vercel.com/signup and select Hobby then click **Deploy** button. <br><br>
+<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpigzillaaaaa%2Fdaddylive" target="_blank"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
 
 ## docker-compose
 1. Clone the repository
