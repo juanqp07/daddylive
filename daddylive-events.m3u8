@@ -1,5 +1,35 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/daddylive/refs/heads/main/epgs/daddylive-events-epg.xml"
 
+#EXTINF:-1 tvg-id="7f3185c97acab6059c6a636135fd230d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Mini Reni Season 1 Episode 6 (MAGNOLIA NETWORK)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTkvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="e09699e1ed4fe604b42daaf23752b444" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Summer House Season 9 Episode 18 (BRAVO USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzA3L21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="733ef33190762cd500f0768aecd0e68b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",My Lottery Dream Home Season 5 Episode 7 (OWN USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="e85e7e5d0e9400167f95d862574679b0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",MasterChef Season 24 Episode 4 (FOXNY USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="86eeac950333a3c43f3d2d29c51ecf82" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Dateline: Secrets Uncovered Season 15 Episode 2 (OXYGEN TRUE CRIME)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzIvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="ac25ea982852bfb703417f60a8d0d0a6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Ridiculousness Season 44 Episode 15 (MTV USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
@@ -12,35 +42,11 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzcxL2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02NTQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="7f3185c97acab6059c6a636135fd230d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Mini Reni Season 1 Episode 6 (MAGNOLIA NETWORK)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTkvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="eaced5fd99adf928583ccc39c146b8ef" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",A.mar Season 1 Episode 17 (UNIVISION USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMyL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="e85e7e5d0e9400167f95d862574679b0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",MasterChef Season 24 Episode 4 (FOXNY USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="733ef33190762cd500f0768aecd0e68b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",My Lottery Dream Home Season 5 Episode 7 (OWN USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzEvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="86eeac950333a3c43f3d2d29c51ecf82" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Dateline: Secrets Uncovered Season 15 Episode 2 (OXYGEN TRUE CRIME)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="aa9bd9f01d138e74c355d5d74213ed23" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="TV SHOWS",NBA Countdown Live (ABC NY USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -48,17 +54,11 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="5b4c1e30583e31f3397adff9f95c9e1e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sullivan's Crossing Season 3 Episode 5 (CW USA)
+#EXTINF:-1 tvg-id="33168d9c77d1510c7d13e8381ccdbc51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",USL Championship : Louisville City vs Rhode Island (ESPN2 USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDAvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="e09699e1ed4fe604b42daaf23752b444" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Summer House Season 9 Episode 18 (BRAVO USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzA3L21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="c5859f7bcc12f51550055536aca6d80f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="WWE",All Elite Wrestling: Dynamite (TBS USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -66,17 +66,17 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzA3L2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzYvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="33168d9c77d1510c7d13e8381ccdbc51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",USL Championship : Louisville City vs Rhode Island (ESPN2 USA)
+#EXTINF:-1 tvg-id="ce08b40cf55422ec01722ef7c57bfe63" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Slovenia vs. Cuba (POLSAT SPORT 2 POLAND)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MC9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="5b4c1e30583e31f3397adff9f95c9e1e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sullivan's Crossing Season 3 Episode 5 (CW PIX 11 USA)
+#EXTINF:-1 tvg-id="5b4c1e30583e31f3397adff9f95c9e1e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sullivan's Crossing Season 3 Episode 5 (CW USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgwL21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDAvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="b5386fb15e54174ba7614f110f93671d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Germany vs. Canada (POLSAT SPORT 1 POLAND)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -84,23 +84,17 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgwL2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="ce08b40cf55422ec01722ef7c57bfe63" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Slovenia vs. Cuba (POLSAT SPORT 2 POLAND)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MC9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="c5859f7bcc12f51550055536aca6d80f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="WWE",All Elite Wrestling: Dynamite (TSN2)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTIvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="b5386fb15e54174ba7614f110f93671d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Germany vs. Canada (TVA SPORTS)
+#EXTINF:-1 tvg-id="5b4c1e30583e31f3397adff9f95c9e1e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sullivan's Crossing Season 3 Episode 5 (CW PIX 11 USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODMzL21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgwL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="ce08b40cf55422ec01722ef7c57bfe63" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Slovenia vs. Cuba (ARENA PREMIUM 2 SERBIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -108,23 +102,29 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzUvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="b5386fb15e54174ba7614f110f93671d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Germany vs. Canada (TVA SPORTS)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODMzL21vbm8ubTN1OA==.m3u8
+
 #EXTINF:-1 tvg-id="c5859f7bcc12f51550055536aca6d80f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="WWE",All Elite Wrestling: Dynamite (FOX SPORTS PREMIUM MX)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MzAvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="b5386fb15e54174ba7614f110f93671d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Germany vs. Canada (SPORT KLUB 3 CROATIA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
-
 #EXTINF:-1 tvg-id="ce08b40cf55422ec01722ef7c57bfe63" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Slovenia vs. Cuba (SPORTV2 BTAZIL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="b5386fb15e54174ba7614f110f93671d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Germany vs. Canada (SPORT KLUB 3 CROATIA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="ce08b40cf55422ec01722ef7c57bfe63" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Slovenia vs. Cuba (SPORT KLUB 2 CROATIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -354,17 +354,23 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03Ni9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="e5c2aa526e4ed3506c18183aef9eface" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Gordon Ramsay's Secret Service Season 1 Episode 4 (FOXNY USA)
+#EXTINF:-1 tvg-id="573c3aedb8417d20d5e6d69c3ea34e0b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Real Housewives of Miami Season 7 Episode 1 • Premiere (BRAVO USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzA3L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="7986f7fccc2cb80c696b38474a91d223" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Raid the Cage Season 2 Episode 10 (CBSNY USA)
+#EXTINF:-1 tvg-id="25168f0768073e035bbd3c755bbd3dc2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Court Cam Season 8 Episode 23 (A&AMP;E TV USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjcvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="485ac4620810f65c6e5477938cd85a02" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Adults Season 1 Episode 5 (FX USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTcvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="d0998d077b361837200869ae99b5484b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sherlock &amp; Daughter Season 1 Episode 8 • Finale (CW USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -372,17 +378,17 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03Nj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDAvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="0c67a207a7f202af72fa64dc56c47714" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Border Security: Australia's Front Line Season 15 Episode 15 (NATIONAL GEOGRAPHIC (NGC))
+#EXTINF:-1 tvg-id="7a7c4bcfd2d8ae65e061b95fd32001b4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",PAYBACK Season 4 Episode 8 (TV ONE USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjgvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjYwL21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="573c3aedb8417d20d5e6d69c3ea34e0b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Real Housewives of Miami Season 7 Episode 1 • Premiere (BRAVO USA)
+#EXTINF:-1 tvg-id="ec9907440ba9d2e9c779b5e590357b5f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",American Pickers Season 25 (HISTORY USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzA3L21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIyL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="94ce954fc0063d72ca0d5f9b6039cff6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Tyler Perry's House of Payne Season 14 Episode 7 (BET USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -396,35 +402,29 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjYxL21vbm8ubTN1OA==.m3u8
 
+#EXTINF:-1 tvg-id="0c67a207a7f202af72fa64dc56c47714" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Border Security: Australia's Front Line Season 15 Episode 15 (NATIONAL GEOGRAPHIC (NGC))
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjgvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="e5c2aa526e4ed3506c18183aef9eface" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Gordon Ramsay's Secret Service Season 1 Episode 4 (FOXNY USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="1c659c4a8ae6c86d6b259e061c4cc9f4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Holmes Family Rescue Season 3 Episode 2 (HGTV USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODIvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="485ac4620810f65c6e5477938cd85a02" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Adults Season 1 Episode 5 (FX USA)
+#EXTINF:-1 tvg-id="7986f7fccc2cb80c696b38474a91d223" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Raid the Cage Season 2 Episode 10 (CBSNY USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTcvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="25168f0768073e035bbd3c755bbd3dc2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Court Cam Season 8 Episode 23 (A&AMP;E TV USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDIvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="ec9907440ba9d2e9c779b5e590357b5f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",American Pickers Season 25 (HISTORY USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIyL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="7a7c4bcfd2d8ae65e061b95fd32001b4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",PAYBACK Season 4 Episode 8 (TV ONE USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjYwL21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjcvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="d0998d077b361837200869ae99b5484b" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Sherlock &amp; Daughter Season 1 Episode 8 • Finale (CW PIX 11 USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -432,11 +432,11 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgwL21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="34139199e598002214e5c3da4f0cbf54" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Taking the Stand Season 4 Episode 3 (A&AMP;E TV USA)
+#EXTINF:-1 tvg-id="64882ece8f7cafe336a5641b5aaa2fa0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Mystery at Blind Frog Ranch Secrets Beneath the Stone (DISCOVERY USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDIvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTMvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="3b4c588e6d27b8af1b506bffd148c21e" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Life or Death: The Negotiators Season 2 Episode 4 (NATIONAL GEOGRAPHIC (NGC))
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -444,29 +444,29 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjgvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="64882ece8f7cafe336a5641b5aaa2fa0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Mystery at Blind Frog Ranch Secrets Beneath the Stone (DISCOVERY USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTMvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="e8f0dedcdfe0f56e36263ef7352b1cc4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",House Hunters Season 261 Episode 4 (HGTV USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODIvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="ff8bdb8071b0b34fc151af2b6844e093" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Love Island Season 7 Episode 1 • Premiere (BRAVO USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzA3L21vbm8ubTN1OA==.m3u8
 
+#EXTINF:-1 tvg-id="34139199e598002214e5c3da4f0cbf54" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Taking the Stand Season 4 Episode 3 (A&AMP;E TV USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDIvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="dcd98c1c6aff8554f4f2aa04e327ca87" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",All Elite Wrestling: Collision Summer Blockbuster 2025 • Live (TBS USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="e8f0dedcdfe0f56e36263ef7352b1cc4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",House Hunters Season 261 Episode 4 (HGTV USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="21de237b86160cd4116a8f0122941bd4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Twisted Metal Season 1 Episode 3 (SYFY USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -816,17 +816,17 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTcyL21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="d48f418efa4047e06c7935c6c60620af" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="FIELD HOCKEY",FIH Pro League : Argentina vs India (ESPN 2 ARGENTINA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xNTAvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="20cfca2e399293240cc37086d43a6b24" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Africa - COSAFA Cup : Botswana vs Zambia (SUPERSPORT VARIETY 4)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MTkvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="d48f418efa4047e06c7935c6c60620af" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="FIELD HOCKEY",FIH Pro League : Argentina vs India (ESPN 2 ARGENTINA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xNTAvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="04dc2f633a361f5417f9a6ebb9d433c7" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="CYCLING",Criterium du Dauphine | Stage 4 Men | Charmes sur Rhone – Saint Peray (ITT 17.4km) (TNT SPORTS 3 UK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1086,17 +1086,17 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDAvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="dc40913fd36427099624fce4922a6203" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/futsal-logo.png" group-title="FUTSAL",Russia Superliga Playoffs : Ukhta vs Gazprom-Ugra Yugorsk (MATCH TV RUSSIA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMjcvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="6c2b097c33514a62d234e5cebecd7884" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying (TNT SPORTS 2 UK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="dc40913fd36427099624fce4922a6203" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/futsal-logo.png" group-title="FUTSAL",Russia Superliga Playoffs : Ukhta vs Gazprom-Ugra Yugorsk (MATCH TV RUSSIA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMjcvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="6c2b097c33514a62d234e5cebecd7884" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",FIA WEC | Round 4 | 24 Hours of Le Mans Qualifying (EUROSPORT 1 POLAND)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1332,12 +1332,6 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (SPORT TV1 PORTUGAL)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="44fe66faf156b8a364794d8de2e27340" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Kelly Clarkson Show Season 6 Episode 168 (NBCNY USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
@@ -1350,11 +1344,11 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03Nj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04NTEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="81e55e05fdf64d3c0ef2981e3005fba0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Real Oviedo vs Almería (LALIGA TV HYPERMOTION)
+#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (SPORT TV1 PORTUGAL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTM5L21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="692750b036fe810b41e9079ff05cb724" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Poland U21 vs Georgia U21 (SPORT TV3 PORTUGAL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1362,11 +1356,11 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (CANAL 11 PORTUGAL)
+#EXTINF:-1 tvg-id="81e55e05fdf64d3c0ef2981e3005fba0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Real Oviedo vs Almería (LALIGA TV HYPERMOTION)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NDAvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTM5L21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (PRO TV ROMANIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1386,17 +1380,11 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTI4L2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MjEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (BEIN SPORTS 1 FRANCE)
+#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (CANAL 11 PORTUGAL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (SPORT TV2 PORTUGAL)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzQvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NDAvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="692750b036fe810b41e9079ff05cb724" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Poland U21 vs Georgia U21 (TVP1 POLAND)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1404,17 +1392,29 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTYwL21vbm8ubTN1OA==.m3u8
 
+#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (SPORT TV2 PORTUGAL)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzQvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="81e55e05fdf64d3c0ef2981e3005fba0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Real Oviedo vs Almería (VIAPLAY SPORTS 1 UK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (W9 FRANCE)
+#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (BEIN SPORTS 1 FRANCE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="692750b036fe810b41e9079ff05cb724" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Poland U21 vs Georgia U21 (BEIN SPORTS 3 FRANCE)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTgvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (BEIN SPORTS 2 FRANCE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1428,23 +1428,17 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzYvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="692750b036fe810b41e9079ff05cb724" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Poland U21 vs Georgia U21 (BEIN SPORTS 3 FRANCE)
+#EXTINF:-1 tvg-id="81e55e05fdf64d3c0ef2981e3005fba0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Real Oviedo vs Almería (PREMIER SPORTS 1 IRELAND)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTgvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (M4 SPORT HUNGARY)
+#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (W9 FRANCE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNjUvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (ZIGGO SPORT 2 NL)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOTgvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="692750b036fe810b41e9079ff05cb724" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Poland U21 vs Georgia U21 (BEIN SPORTS MENA 4)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1452,35 +1446,11 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="81e55e05fdf64d3c0ef2981e3005fba0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Real Oviedo vs Almería (PREMIER SPORTS 1 IRELAND)
+#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (ZIGGO SPORT 2 NL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzEvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (TELEDEPORTE SPAIN)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTI5L21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (4SEVEN UK)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="692750b036fe810b41e9079ff05cb724" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Poland U21 vs Georgia U21 (SPORT 3 ISRAEL)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDIvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (V SPORT FOTBOLL SWEDEN)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTkvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOTgvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="81e55e05fdf64d3c0ef2981e3005fba0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Real Oviedo vs Almería (DAZN ELEVEN 1 PORTUGAL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1488,17 +1458,23 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTkvbW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTUvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (ESPN2 MEXICO)
+#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (M4 SPORT HUNGARY)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI2L21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0yNjUvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (ZIGGO SPORT 1 NL)
+#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (TELEDEPORTE SPAIN)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zOTMvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTI5L21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="692750b036fe810b41e9079ff05cb724" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Poland U21 vs Georgia U21 (SPORT 3 ISRAEL)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="81e55e05fdf64d3c0ef2981e3005fba0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Real Oviedo vs Almería (ESPN DEPORTES)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1506,11 +1482,17 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzUvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (TV3 SPORT DENMARK)
+#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (4SEVEN UK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MDkvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (V SPORT FOTBOLL SWEDEN)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTkvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="81e55e05fdf64d3c0ef2981e3005fba0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Real Oviedo vs Almería (ARENA PREMIUM 3 SERBIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1518,11 +1500,11 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMzkvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (BEIN SPORTS MENA 2)
+#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (ESPN2 MEXICO)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI2L21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="81e55e05fdf64d3c0ef2981e3005fba0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Real Oviedo vs Almería (NOVA SPORTS 1 GREECE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1530,23 +1512,11 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjMxL21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (BEIN SPORTS MENA ENGLISH 1)
+#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (TV3 SPORT DENMARK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MS9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (ČT SPORT CZECH REPUBLIC)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (SPORT 2 ISRAEL)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDEvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MDkvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="81e55e05fdf64d3c0ef2981e3005fba0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Real Oviedo vs Almería (TV2 SPORT X DENMARK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1554,11 +1524,11 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODA4L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (DVOJKA SLOVAKIA)
+#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (BEIN SPORTS MENA 2)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNy9tb25vLm0zdTg=.m3u8
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="81e55e05fdf64d3c0ef2981e3005fba0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Real Oviedo vs Almería (TV4 FOTBALL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1566,11 +1536,11 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNy9tb2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzQ3L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (TV3+ HD DENMARK)
+#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (BEIN SPORTS MENA ENGLISH 1)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MTkvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MS9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="81e55e05fdf64d3c0ef2981e3005fba0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Real Oviedo vs Almería (CANAL+ SPORT POLAND)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1578,17 +1548,47 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDgvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (ERT 3 GREECE)
+#EXTINF:-1 tvg-id="23785b0bd389aeae71620a484ecc10f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Italy U21 vs Romania U21 (SPORT 2 ISRAEL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="81e55e05fdf64d3c0ef2981e3005fba0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Real Oviedo vs Almería (DIGI SPORT 2 ROMANIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAxL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (ZIGGO SPORT 1 NL)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zOTMvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (ČT SPORT CZECH REPUBLIC)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (DVOJKA SLOVAKIA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNy9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (TV3+ HD DENMARK)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MTkvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (ERT 3 GREECE)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="11d6c3ba3236a874b7dd84ae891aa9d2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",UEFA Euro U-21 : Portugal U21 vs France U21 (V SPORT PREMIUM)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1902,6 +1902,12 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="96e5ef62e3331ae532683bf47617b57f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",Minor League Baseball : Hickory Crawdads vs Myrtle Beach Pelicans (MARQUEE SPORTS NETWORK USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzAvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="b557280f1e4a50dcce6b9ab0beba1517" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Canadian Championship : Atlético Ottawa vs York United (FOX SPORTS 2 USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
@@ -1920,23 +1926,11 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOS9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="96e5ef62e3331ae532683bf47617b57f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",Minor League Baseball : Hickory Crawdads vs Myrtle Beach Pelicans (MARQUEE SPORTS NETWORK USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzAvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="7fa44a3c5753e38e39ff49c4feccccf3" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",Athletics: NCAA (M) - USA Championships: USA Championships - DAY 1 (SPORT KLUB 1 CROATIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="e85810d978f50cdb24667729e4c58137" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs Tampa Bay Rays (MLB LEAGUE PASS)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNC9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="244030dd577d83288c7202a36e1c1946" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : New York Mets vs Washington Nationals (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1944,17 +1938,23 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNC9tb2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNS9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="e85810d978f50cdb24667729e4c58137" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs Tampa Bay Rays (TSN3)
+#EXTINF:-1 tvg-id="e85810d978f50cdb24667729e4c58137" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs Tampa Bay Rays (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTMvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNC9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="244030dd577d83288c7202a36e1c1946" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : New York Mets vs Washington Nationals (SPORTSNET NEW YORK USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTkvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="e85810d978f50cdb24667729e4c58137" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs Tampa Bay Rays (TSN3)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTMvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="e85810d978f50cdb24667729e4c58137" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Boston Red Sox vs Tampa Bay Rays (BALLY SPORTS SUN)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -1980,17 +1980,17 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW02OS9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="c3eaec9bd0b8d56030de87873b707653" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Kansas City Royals vs New York Yankees (MLB LEAGUE PASS)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="5ff3886fcd5650f81be0b70819e5afe1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Minnesota Twins vs Texas Rangers (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNy9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="c3eaec9bd0b8d56030de87873b707653" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Kansas City Royals vs New York Yankees (MLB LEAGUE PASS)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="c3eaec9bd0b8d56030de87873b707653" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Kansas City Royals vs New York Yankees (MLB NETWORK USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -2022,17 +2022,11 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04NS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDYvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="ed8352d6f626d10728831785d85712c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Police 24/7 Season 2 Episode 21 (CW USA)
+#EXTINF:-1 tvg-id="6b908aee2c624cc4017e8e5d90c47569" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",A.mar Season 1 Episode 18 (UNIVISION USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDAvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="8b50093f634b5663f311825478316d1d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The First 48 Season 28 Episode 1 • Premiere (A&AMP;E TV USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDIvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMyL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="5b3e32c719c034d95f774890c2ebe82d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Dateline: Unforgettable Season 6 Episode 2 (OXYGEN TRUE CRIME)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -2040,35 +2034,11 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zMzIvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="43f882a1b2ebe688628d942a2e9d71c0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Savor the City Season 1 Episode 11 (TV ONE USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjYwL21vbm8ubTN1OA==.m3u8
-
 #EXTINF:-1 tvg-id="344c917ce0ca1aeda123b21e9dae6ec5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Transplant Season 4 Episode 5 (NBCNY USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjkvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="b04eabe20cbed260dbf2eaeedf864fcd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Bob's Burgers Season 15 Episode 14 (FOXNY USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="6b908aee2c624cc4017e8e5d90c47569" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",A.mar Season 1 Episode 18 (UNIVISION USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMyL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="2a26d3d5ed0ebdc0104b99e283cbe0d5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Alone Season 12 (HISTORY USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIyL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="9f92d1b87eb066bf62e16e8d77af3819" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Jersey Shore Family Vacation Season 8 Episode 3 (MTV USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -2076,17 +2046,41 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIyL2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzcxL21vbm8ubTN1OA==.m3u8
 
+#EXTINF:-1 tvg-id="ed8352d6f626d10728831785d85712c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Police 24/7 Season 2 Episode 21 (CW USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDAvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="43f882a1b2ebe688628d942a2e9d71c0" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Savor the City Season 1 Episode 11 (TV ONE USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjYwL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="8b50093f634b5663f311825478316d1d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The First 48 Season 28 Episode 1 • Premiere (A&AMP;E TV USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDIvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="8da45944c09658e53d7806ff3366e29c" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Chile - Primera Division : Deportes Iquique vs Colo-Colo (TNT SPORTS PREMIUM CHILE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQyL21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="ed8352d6f626d10728831785d85712c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Police 24/7 Season 2 Episode 21 (CW PIX 11 USA)
+#EXTINF:-1 tvg-id="b04eabe20cbed260dbf2eaeedf864fcd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Bob's Burgers Season 15 Episode 14 (FOXNY USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgwL21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="2a26d3d5ed0ebdc0104b99e283cbe0d5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Alone Season 12 (HISTORY USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIyL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="b2bfd3b8668600066d6c98d1466f82c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="WWE",TNA iMPACT! (AXS TV USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -2118,17 +2112,29 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01MC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="b2bfd3b8668600066d6c98d1466f82c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="WWE",TNA iMPACT! (SPORTSNET 360)
+#EXTINF:-1 tvg-id="ed8352d6f626d10728831785d85712c7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Police 24/7 Season 2 Episode 21 (CW PIX 11 USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MDkvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgwL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="bff05c387daf014c3e35a0749171ecc4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mma-logo.png" group-title="MMA",Professional Fighters League (PFL) : Jason Jackson vs Thad Jean (ESPN USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="b2bfd3b8668600066d6c98d1466f82c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="WWE",TNA iMPACT! (SPORTSNET 360)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MDkvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="b991e83d5ca422f19084825a9e5b5339" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Florida Panthers (AWAY FEED)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="685adcacd8411cdc1e906a2f29bf6320" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Argentina vs Canada (TVA SPORTS 2)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -2160,23 +2166,17 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzMvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="21aed87c60a4c57fbe0864ad6f285115" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : USA vs Iran (SPORT KLUB HD CROATIA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTMvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="b991e83d5ca422f19084825a9e5b5339" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Florida Panthers (AWAY FEED)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="b991e83d5ca422f19084825a9e5b5339" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Florida Panthers (VODAFONE SPORT)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNjAvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="21aed87c60a4c57fbe0864ad6f285115" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : USA vs Iran (SPORT KLUB HD CROATIA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTMvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="b991e83d5ca422f19084825a9e5b5339" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="ICE HOCKEY",NHL : Edmonton Oilers vs Florida Panthers (VIAPLAY SPORTS 2 UK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -2352,17 +2352,17 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03Nz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="38599d521a63795b2c7e780df4197575" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Brazil - Brasileirão : São Paulo vs Vasco da Gama (PREMIERE 3 BR)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="58030c592e12d1b884435580a6ed0f64" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Brazil - Brasileirão : Atlético Mineiro vs Internacional (PREMIERE 4 BR)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="38599d521a63795b2c7e780df4197575" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Brazil - Brasileirão : São Paulo vs Vasco da Gama (PREMIERE 3 BR)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="12539b1cdb21c28febe323c462fe8783" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cfl-logo.png" group-title="AM. FOOTBALL",CFL : Winnipeg Blue Bombers vs BC Lions (CBS SPORTS NETWORK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -2412,23 +2412,11 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODMvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="6d31e47ce217d1664b8e96af1878a93a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Greenland Season 5 Episode 3 (ESPN2 USA)
+#EXTINF:-1 tvg-id="f022f352da0e0f21af73ef630e281129" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Chi Season 7 Episode 4 (SHOWTIME SHOXBET USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="5610301a71811ff5e1b2ecb698cff8e1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Crime Nation Doomsday Mom Lori Vallow (CW USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDAvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="e7f939fd11d9f1ba7611ff5a64818761" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Top Chef Season 22 Episode 14 (BRAVO USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzA3L21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNjk1L21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="365c7bbb71b425d2f54ceea7e6d0660d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Secrets of the Bunny Ranch Season 1 Episode 1 • Premiere (A&AMP;E TV USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -2442,17 +2430,17 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTcvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="127180c93d0eec15fef146ea80e93d80" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Alone Season 12 Episode 1 • Premiere (HISTORY USA)
+#EXTINF:-1 tvg-id="6d31e47ce217d1664b8e96af1878a93a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Greenland Season 5 Episode 3 (ESPN2 USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIyL21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="f022f352da0e0f21af73ef630e281129" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Chi Season 7 Episode 4 (SHOWTIME SHOXBET USA)
+#EXTINF:-1 tvg-id="e7f939fd11d9f1ba7611ff5a64818761" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Top Chef Season 22 Episode 14 (BRAVO USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNjk1L21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzA3L21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="e8b3bee5b0820e9d9a3312c8a2d7a7dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",Major League Cricket : Unicorns vs. Freedom (WILLOW CRICKET)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -2460,17 +2448,29 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNjk1L2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNDYvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="5610301a71811ff5e1b2ecb698cff8e1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Crime Nation Doomsday Mom Lori Vallow (CW PIX 11 USA)
+#EXTINF:-1 tvg-id="127180c93d0eec15fef146ea80e93d80" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Alone Season 12 Episode 1 • Premiere (HISTORY USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgwL21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIyL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="5610301a71811ff5e1b2ecb698cff8e1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Crime Nation Doomsday Mom Lori Vallow (CW USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDAvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="6d31e47ce217d1664b8e96af1878a93a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Greenland Season 5 Episode 3 (ESPN DEPORTES)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNzUvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="5610301a71811ff5e1b2ecb698cff8e1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Crime Nation Doomsday Mom Lori Vallow (CW PIX 11 USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMjgwL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="e8b3bee5b0820e9d9a3312c8a2d7a7dd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",Major League Cricket : Unicorns vs. Freedom (NBC SPORTS CALIFORNIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -2484,17 +2484,23 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03NT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="f61007b739e3a28cb6d75f3ccec898bb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",House Hunters International Season 200 Episode 7 (HGTV USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODIvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="4bdd9df2a7a0014bcb9432e07851bf79" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Watch What Happens Live With Andy Cohen Season 22 Episode 97 (BRAVO USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzA3L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="f61007b739e3a28cb6d75f3ccec898bb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",House Hunters International Season 200 Episode 7 (HGTV USA)
+#EXTINF:-1 tvg-id="8275673d7cc96eefb31dff06e7352fbd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Secrets of the Bunny Ranch Season 1 Episode 2 (A&AMP;E TV USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODIvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="d1e18ee1f8614c6297e1830aa7ddc7cb" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Killer Clown: Murder on the Doorstep Season 1 Episode 2 (SUNDANCE TV)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -2507,12 +2513,6 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQzL21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="8275673d7cc96eefb31dff06e7352fbd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Secrets of the Bunny Ranch Season 1 Episode 2 (A&AMP;E TV USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="0f94913feb91e6e2700af47ea98f3638" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Revival Season 1 Episode 1 • Premiere (SYFY USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -2562,12 +2562,6 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="842ad5b950893bb408f7cdc38ab66630" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : China vs Serbia (SPORTKLUB 1 CROATIA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (SKY SPORTS TENNIS UK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
@@ -2580,17 +2574,23 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ni
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03MDEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="842ad5b950893bb408f7cdc38ab66630" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : China vs Serbia (SPORTV2 BRAZIL)
+#EXTINF:-1 tvg-id="842ad5b950893bb408f7cdc38ab66630" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : China vs Serbia (SPORTKLUB 1 CROATIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (BEIN SPORTS 2 FRANCE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTcvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="842ad5b950893bb408f7cdc38ab66630" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : China vs Serbia (SPORTV2 BRAZIL)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="cfb406415fe04a9ea14b158464a805f7" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png" group-title="TENNIS",WTA 500 London &amp; ATP 250 Stuttgart &amp; WTA 250 + ATP 250 Hertogenbosch (COSMOTE SPORT 7 HD)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -2886,29 +2886,29 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01Mj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="842f03c0197e19af61d99bd9faf3358f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Poland vs Japan (SPORTV2 BRAZIL)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="b1d339ee8e77df84665adf420d5d89e2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3 (EUROSPORT 2 FRANCE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzMvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="b1d339ee8e77df84665adf420d5d89e2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3 (EUROSPORT 2 SE)
+#EXTINF:-1 tvg-id="842f03c0197e19af61d99bd9faf3358f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Poland vs Japan (SPORTV2 BRAZIL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yMzIvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OS9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="842f03c0197e19af61d99bd9faf3358f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png" group-title="VOLLEYBALL",Nations League : Poland vs Japan (MAX SPORT 2 BULGARIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NzMvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="b1d339ee8e77df84665adf420d5d89e2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3 (EUROSPORT 2 SE)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yMzIvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="b1d339ee8e77df84665adf420d5d89e2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORT",FIA WEC | Round 4 | 24 Hours of Le Mans Free Practice 3 (EUROSPORT 2 ITALY)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -2934,17 +2934,17 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Mi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yMzIvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="6d680785da3c83c24bcd884c257a90a6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="CYCLING",Tour of Switzerland | Stage 1 Women | Gstaad (96.4km) (TNT SPORTS 4 UK)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="5ebdedafb846c838c4878e9a760d4b95" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/horse-logo.png" group-title="HORSE RACING",Live racing from around the UK (SKY SPORTS RACING UK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01NTQvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="6d680785da3c83c24bcd884c257a90a6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="CYCLING",Tour of Switzerland | Stage 1 Women | Gstaad (96.4km) (TNT SPORTS 4 UK)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="ffda96f8a6b03a53a5f7dd8203db73c6" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Poland II Liga : Wieczysta Krakow vs. KKS 1925 Kalisz - Poland II Liga (TVP SPORT POLAND HD)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3018,29 +3018,29 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAzL21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="1948ee3d65ee546c2964dc5409f94976" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Ukraine U21 vs Denmark U21 (RTVS SPORT SLOVAKIA HD)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="db93efc74e07d513d943c56a80d35b45" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Poland II Liga : MKS Chojniczanka Chojnice vs. OKS Swit Skolwin Szczecin (TVP SPORT POLAND HD)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTI4L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="1948ee3d65ee546c2964dc5409f94976" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Ukraine U21 vs Denmark U21 (4SEVEN IRELAND)
+#EXTINF:-1 tvg-id="1948ee3d65ee546c2964dc5409f94976" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Ukraine U21 vs Denmark U21 (RTVS SPORT SLOVAKIA HD)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="b315ee39871f1c392616299da803d909" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Toyrnoya Vaso Mpeskaki : Lithoyandia vs Greece (ERT 2 GREECE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNy9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="1948ee3d65ee546c2964dc5409f94976" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Ukraine U21 vs Denmark U21 (4SEVEN IRELAND)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="1948ee3d65ee546c2964dc5409f94976" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Ukraine U21 vs Denmark U21 (RAI SPORT 1 IT)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3138,6 +3138,12 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMDEvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="b6e2f29da9d8eb1bcac1f847f7dae5b1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC World Cup of Darts : Sweden vs Lithuania (DAZN2 DE)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjcvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="8c94302c43d4466b2dff881dec93d7c1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/horse-logo.png" group-title="HORSE RACING",America's Day At the Races (FOX SPORTS 2 USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
@@ -3156,11 +3162,11 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTQvbW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="b6e2f29da9d8eb1bcac1f847f7dae5b1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC World Cup of Darts : Sweden vs Lithuania (DAZN2 DE)
+#EXTINF:-1 tvg-id="adadd49264e3a275b0ecdafafcaf812b" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="WEIGHTLIFTING",World Open Classic Powerlifting Championships Women's 69kg &amp; Men's 93kg | Chemnitz (EUROSPORT 2 POLAND)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjcvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OC9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="d51583a483e3bbdb4f0fa15831b58629" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",French League: Playoffs - 1/2 Final (G5) : Paris vs Bourg (SPORT KLUB 4 CROATIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3168,23 +3174,11 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00Mj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTA0L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="adadd49264e3a275b0ecdafafcaf812b" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="WEIGHTLIFTING",World Open Classic Powerlifting Championships Women's 69kg &amp; Men's 93kg | Chemnitz (EUROSPORT 2 POLAND)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OC9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="b6e2f29da9d8eb1bcac1f847f7dae5b1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC World Cup of Darts : Sweden vs Lithuania (SKY SPORTS ACTION UK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzcvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="b6e2f29da9d8eb1bcac1f847f7dae5b1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC World Cup of Darts : Sweden vs Lithuania (GOL PLAY SPAIN)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTMwL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="adadd49264e3a275b0ecdafafcaf812b" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="WEIGHTLIFTING",World Open Classic Powerlifting Championships Women's 69kg &amp; Men's 93kg | Chemnitz (EUROSPORT 2 SPAIN)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3192,11 +3186,11 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01MjUvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="b6e2f29da9d8eb1bcac1f847f7dae5b1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC World Cup of Darts : Sweden vs Lithuania (L EQUIPE FRANCE)
+#EXTINF:-1 tvg-id="b6e2f29da9d8eb1bcac1f847f7dae5b1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC World Cup of Darts : Sweden vs Lithuania (GOL PLAY SPAIN)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQ1L21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTMwL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="adadd49264e3a275b0ecdafafcaf812b" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="WEIGHTLIFTING",World Open Classic Powerlifting Championships Women's 69kg &amp; Men's 93kg | Chemnitz (EUROSPORT 2 FRANCE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3204,23 +3198,29 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzMvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="b6e2f29da9d8eb1bcac1f847f7dae5b1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC World Cup of Darts : Sweden vs Lithuania (L EQUIPE FRANCE)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQ1L21vbm8ubTN1OA==.m3u8
+
 #EXTINF:-1 tvg-id="b6e2f29da9d8eb1bcac1f847f7dae5b1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC World Cup of Darts : Sweden vs Lithuania (TV3 MAX DENMARK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yMjMvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="b6e2f29da9d8eb1bcac1f847f7dae5b1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC World Cup of Darts : Sweden vs Lithuania (SKY SPORT 3 NZ)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkwL21vbm8ubTN1OA==.m3u8
-
 #EXTINF:-1 tvg-id="adadd49264e3a275b0ecdafafcaf812b" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="WEIGHTLIFTING",World Open Classic Powerlifting Championships Women's 69kg &amp; Men's 93kg | Chemnitz (EUROSPORT 2 SE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yMzIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="b6e2f29da9d8eb1bcac1f847f7dae5b1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png" group-title="DARTS",PDC World Cup of Darts : Sweden vs Lithuania (SKY SPORT 3 NZ)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkwL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="adadd49264e3a275b0ecdafafcaf812b" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="WEIGHTLIFTING",World Open Classic Powerlifting Championships Women's 69kg &amp; Men's 93kg | Chemnitz (EUROSPORT 2 ITALY)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3258,17 +3258,17 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOS9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="244030dd577d83288c7202a36e1c1946" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : New York Mets vs Washington Nationals (SPORTSNET NEW YORK USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTkvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="5ff3886fcd5650f81be0b70819e5afe1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Minnesota Twins vs Texas Rangers (TNT SPORTS 3 UK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzMvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="244030dd577d83288c7202a36e1c1946" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : New York Mets vs Washington Nationals (SPORTSNET NEW YORK USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTkvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="244030dd577d83288c7202a36e1c1946" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : New York Mets vs Washington Nationals (MASN USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3318,17 +3318,17 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yMT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNDYvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="72bcb44de98a9032c8345c44e96d7f8f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",NatWest T20 Blast : Essex vs Glamorgan (SKY SPORTS CRICKET UK)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjUvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="70dba6318de9fffd324c3644e544a814" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Süper Ligi : Anadolu Efes vs Besiktas (BEIN SPORT 5 TURKEY)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="72bcb44de98a9032c8345c44e96d7f8f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png" group-title="CRICKET",NatWest T20 Blast : Essex vs Glamorgan (SKY SPORTS CRICKET UK)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjUvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="70dba6318de9fffd324c3644e544a814" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",Süper Ligi : Anadolu Efes vs Besiktas (COSMOTE SPORT 9 GREECE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3420,18 +3420,6 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjcvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="dd54ac2a1b552fa0836d6de1272c77a3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="FIELD HOCKEY",FIH Pro League : Netherlands vs Ireland (SUPERSPORT FOOTBALL)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01Ni9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="53dddddd16a24f1453a3e88fb95e25a6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",IAAF Diamond League Bislett Games - Bislett Stadium (POLSAT SPORT 1 POLAND)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (SKY SPORTS GOLF UK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
@@ -3444,11 +3432,17 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03MC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="53dddddd16a24f1453a3e88fb95e25a6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",IAAF Diamond League Bislett Games - Bislett Stadium (MOVISTAR DEPORTES 2 SPAIN)
+#EXTINF:-1 tvg-id="dd54ac2a1b552fa0836d6de1272c77a3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png" group-title="FIELD HOCKEY",FIH Pro League : Netherlands vs Ireland (SUPERSPORT FOOTBALL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzgvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01Ni9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="53dddddd16a24f1453a3e88fb95e25a6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",IAAF Diamond League Bislett Games - Bislett Stadium (POLSAT SPORT 1 POLAND)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Ny9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="7c809b6bcccc140923c2e04183fdcd5f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",ABA League : Partizan vs Buducnost (ARENA SPORT 1 CROATIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3456,17 +3450,17 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00Mz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MzIvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="53dddddd16a24f1453a3e88fb95e25a6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",IAAF Diamond League Bislett Games - Bislett Stadium (MOVISTAR DEPORTES 2 SPAIN)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MzgvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (GOLF CHANNEL USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="53dddddd16a24f1453a3e88fb95e25a6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",IAAF Diamond League Bislett Games - Bislett Stadium (ARENA SPORT 3 SERBIA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MzEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (VODAFONE SPORT)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3474,11 +3468,11 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00Mz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNjAvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="53dddddd16a24f1453a3e88fb95e25a6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",IAAF Diamond League Bislett Games - Bislett Stadium (ZIGGO SPORT 5 NL)
+#EXTINF:-1 tvg-id="53dddddd16a24f1453a3e88fb95e25a6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",IAAF Diamond League Bislett Games - Bislett Stadium (ARENA SPORT 3 SERBIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODMvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00MzEvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (TSN4)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3486,11 +3480,11 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="53dddddd16a24f1453a3e88fb95e25a6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",IAAF Diamond League Bislett Games - Bislett Stadium (ARENA SPORT 4 CROATIA)
+#EXTINF:-1 tvg-id="53dddddd16a24f1453a3e88fb95e25a6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",IAAF Diamond League Bislett Games - Bislett Stadium (ZIGGO SPORT 5 NL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01ODAvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zODMvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (MOVISTAR GOLF)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3498,17 +3492,23 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTI4L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="53dddddd16a24f1453a3e88fb95e25a6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",IAAF Diamond League Bislett Games - Bislett Stadium (SPORT 1 ISRAEL)
+#EXTINF:-1 tvg-id="53dddddd16a24f1453a3e88fb95e25a6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",IAAF Diamond League Bislett Games - Bislett Stadium (ARENA SPORT 4 CROATIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDAvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01ODAvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (SUPERSPORT GOLF)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MjIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="53dddddd16a24f1453a3e88fb95e25a6" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",IAAF Diamond League Bislett Games - Bislett Stadium (SPORT 1 ISRAEL)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDAvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="c7a1d093557f1fff3207510a22b8daed" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",Major Championship U.S. Open (SPORT KLUB GOLF CROATIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3564,23 +3564,11 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xNDIvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="fb1688edc65ab71a04b5a2147d93538d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Kelly Clarkson Show Season 6 Episode 169 (NBCNY USA)
+#EXTINF:-1 tvg-id="938165c8552be6a22e677da8a603ddaa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Germany U21 vs Slovenia U21 (KANAL A SLOVENIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjkvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="494eefffcc095bbc1858998c2a2ab4a3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",General Hospital Season 62 Episode 192 (ABC NY USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (RTVS SPORT SLOVAKIA HD)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="7daef24940d93a7326297970f4fbb9aa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Finland U21 vs Netherlands U21 (ZIGGO SPORT 1 NL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3588,29 +3576,29 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zOTMvbW9uby5tM3U4.m3u8
 
+#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (RTVS SPORT SLOVAKIA HD)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="494eefffcc095bbc1858998c2a2ab4a3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",General Hospital Season 62 Episode 192 (ABC NY USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="fb1688edc65ab71a04b5a2147d93538d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",The Kelly Clarkson Show Season 6 Episode 169 (NBCNY USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjkvbW9uby5tM3U4.m3u8
+
 #EXTINF:-1 tvg-id="ca135d16a7df223de5f38d99c5f5ea8d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Mirandés vs Racing Santander (LALIGA TV HYPERMOTION)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTM5L21vbm8ubTN1OA==.m3u8
-
-#EXTINF:-1 tvg-id="938165c8552be6a22e677da8a603ddaa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Germany U21 vs Slovenia U21 (KANAL A SLOVENIA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNi9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="0695a39c2f34cac13bc7aff295a8ea51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",Athletes Unlimited Softball League : Volts vs Bandits (ESPN2 USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (CHANNEL 4 UK)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zNTQvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="8d81dfdbb664a0389961a1406025ec43" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",LPGA Tour Meijer LPGA Classic for Simply Give (GOLF CHANNEL USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3618,23 +3606,17 @@ https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTgvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="7daef24940d93a7326297970f4fbb9aa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Finland U21 vs Netherlands U21 (BEIN SPORTS 3 FRANCE)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="ca135d16a7df223de5f38d99c5f5ea8d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Mirandés vs Racing Santander (VIAPLAY SPORTS 1 UK)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTEvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="00d76ae746b1f66787157c0bf138019d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",French League: Playoffs - 1/2 Final (G5): Asvel vs Monaco (DAZN1 FRANCE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTUvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="0695a39c2f34cac13bc7aff295a8ea51" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",Athletes Unlimited Softball League : Volts vs Bandits (ESPN2 USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NS9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="938165c8552be6a22e677da8a603ddaa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Germany U21 vs Slovenia U21 (SPORT TV2 PORTUGAL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3642,11 +3624,17 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTUvbW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzQvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (ČT SPORT CZECH)
+#EXTINF:-1 tvg-id="7daef24940d93a7326297970f4fbb9aa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Finland U21 vs Netherlands U21 (BEIN SPORTS 3 FRANCE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTgvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (CHANNEL 4 UK)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zNTQvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="8d81dfdbb664a0389961a1406025ec43" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",LPGA Tour Meijer LPGA Classic for Simply Give (SKY SPORTS+)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3654,47 +3642,23 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNi9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="7daef24940d93a7326297970f4fbb9aa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Finland U21 vs Netherlands U21 (TV3+ HD DENMARK)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MTkvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="ca135d16a7df223de5f38d99c5f5ea8d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Mirandés vs Racing Santander (LALIGATV UK)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzYvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="00d76ae746b1f66787157c0bf138019d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png" group-title="BASKETBALL",French League: Playoffs - 1/2 Final (G5): Asvel vs Monaco (SPORT KLUB 4 CROATIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTA0L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="938165c8552be6a22e677da8a603ddaa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Germany U21 vs Slovenia U21 (BEIN SPORTS 2 FRANCE)
+#EXTINF:-1 tvg-id="ca135d16a7df223de5f38d99c5f5ea8d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Mirandés vs Racing Santander (VIAPLAY SPORTS 1 UK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTcvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (SPORT TV1 PORTUGAL)
+#EXTINF:-1 tvg-id="7daef24940d93a7326297970f4fbb9aa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Finland U21 vs Netherlands U21 (TV3+ HD DENMARK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-id="7daef24940d93a7326297970f4fbb9aa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Finland U21 vs Netherlands U21 (BEIN SPORTS MENA 3)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTMvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-id="ca135d16a7df223de5f38d99c5f5ea8d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Mirandés vs Racing Santander (PREMIER SPORTS 1 IRELAND)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzEvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MTkvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="8d81dfdbb664a0389961a1406025ec43" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/golf-logo.png" group-title="GOLF",LPGA Tour Meijer LPGA Classic for Simply Give (SKY SPORT 4 NZ)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3702,11 +3666,29 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03Nz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNTkxL21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (TVP SPORT POLAND)
+#EXTINF:-1 tvg-id="938165c8552be6a22e677da8a603ddaa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Germany U21 vs Slovenia U21 (BEIN SPORTS 2 FRANCE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTI4L21vbm8ubTN1OA==.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTcvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="ca135d16a7df223de5f38d99c5f5ea8d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Mirandés vs Racing Santander (LALIGATV UK)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0yNzYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (ČT SPORT CZECH)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMi9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="7daef24940d93a7326297970f4fbb9aa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Finland U21 vs Netherlands U21 (BEIN SPORTS MENA 3)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTMvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="938165c8552be6a22e677da8a603ddaa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Germany U21 vs Slovenia U21 (ZIGGO SPORT 3 NL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3714,11 +3696,17 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTI4L2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTE5L21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="ca135d16a7df223de5f38d99c5f5ea8d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Mirandés vs Racing Santander (DAZN ELEVEN 1 PORTUGAL)
+#EXTINF:-1 tvg-id="ca135d16a7df223de5f38d99c5f5ea8d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Mirandés vs Racing Santander (PREMIER SPORTS 1 IRELAND)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTUvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NzEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (SPORT TV1 PORTUGAL)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="938165c8552be6a22e677da8a603ddaa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Germany U21 vs Slovenia U21 (TV3 SPORT DENMARK)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3726,11 +3714,17 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MDkvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (BEIN SPORTS 1 FRANCE)
+#EXTINF:-1 tvg-id="ca135d16a7df223de5f38d99c5f5ea8d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Mirandés vs Racing Santander (DAZN ELEVEN 1 PORTUGAL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTYvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTUvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (TVP SPORT POLAND)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTI4L21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="ca135d16a7df223de5f38d99c5f5ea8d" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Spain - Segunda Division : Mirandés vs Racing Santander (ELEVEN SPORTS 1 POLAND)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3738,11 +3732,11 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03MS9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (ZIGGO SPORT 2 NL)
+#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (BEIN SPORTS 1 FRANCE)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOTgvbW9uby5tM3U4.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0xMTYvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="938165c8552be6a22e677da8a603ddaa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Germany U21 vs Slovenia U21 (4SEVEN IRELAND)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -3756,17 +3750,23 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMS9tb2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNDAxL21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (PRO ARENA ROMANIA)
+#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (ZIGGO SPORT 2 NL)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNC9tb25vLm0zdTg=.m3u8
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOTgvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="938165c8552be6a22e677da8a603ddaa" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Germany U21 vs Slovenia U21 (BEIN SPORTS MENA 2)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtOTIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (PRO ARENA ROMANIA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNC9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="1f6b56a293e379dbfa42f3030628e005" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png" group-title="SOCCER",Europe - UEFA Euro U-21 : Czechia U21 vs England U21 (ESPN 3 MEXICO)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -4110,17 +4110,17 @@ https://example.com/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTIzL21vbm8ubTN1OA==.m3u8
 
-#EXTINF:-1 tvg-id="6b117efb778ec5bed8a4c390934dffcd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Uruguayan First Division Football: Cerro Largo vs Montevideo Wanderers (GOLTV USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01OTcvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="b99961a9e61b7faece06acafd8d22de5" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Brazil - Brasileirão : Vitória vs Cruzeiro (SPORTV BR)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03OC9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="6b117efb778ec5bed8a4c390934dffcd" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Uruguayan First Division Football: Cerro Largo vs Montevideo Wanderers (GOLTV USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01OTcvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 tvg-id="27042c062e95056901ecd0392ec4a36f" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Brazil - Brasileirão : RB Bragantino vs Bahia (PREMIERE 4 BR)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -4158,12 +4158,6 @@ https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMy9tb2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="74c2f9de3134eef76c976073c0607a6a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Miss Universe Latina el reality New (TELEMUNDO USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzEvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-id="910dc415b5b91a87c6fecc1c4b305dd9" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Jeopardy! Season 41 Episode 199 (ABC NY USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
@@ -4175,6 +4169,18 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03Nj
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04OC9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="74c2f9de3134eef76c976073c0607a6a" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png" group-title="TV SHOWS",Miss Universe Latina el reality New (TELEMUNDO USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0xMzEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 tvg-id="8ed3e336f336683e240d8b175859c545" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",Minor League Baseball : Akron RubberDucks vs Hartford Yard Goats (NESN USA)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzYyL21vbm8ubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-id="b0259da1c5f6b3e5ff2aebe28c3b2e42" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",Athletics: NCAA (Women) - USA Championships: USA Championships - DAY 1 (ESPN USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
@@ -4188,12 +4194,6 @@ https://example.com/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTAvbW9uby5tM3U4.m3u8
 
-#EXTINF:-1 tvg-id="8ed3e336f336683e240d8b175859c545" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png" group-title="BASEBALL",Minor League Baseball : Akron RubberDucks vs Hartford Yard Goats (NESN USA)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNzYyL21vbm8ubTN1OA==.m3u8
-
 #EXTINF:-1 tvg-id="b0259da1c5f6b3e5ff2aebe28c3b2e42" tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="ATHLETICS",Athletics: NCAA (Women) - USA Championships: USA Championships - DAY 1 (SPORT KLUB 1 CROATIA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
@@ -4206,17 +4206,17 @@ https://example.com/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xMD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOC9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="9b34932fcde178928d88bd93c3205897" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Milwaukee Brewers vs St. Louis Cardinals (MLB LEAGUE PASS)
-#EXTVLCOPT:http-origin=https://allupplay.xyz
-#EXTVLCOPT:http-referrer=https://allupplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNS9tb25vLm0zdTg=.m3u8
-
 #EXTINF:-1 tvg-id="c3eaec9bd0b8d56030de87873b707653" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Kansas City Royals vs New York Yankees (MLB LEAGUE PASS)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
 #EXTVLCOPT:http-referrer=https://allupplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNC9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="9b34932fcde178928d88bd93c3205897" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Milwaukee Brewers vs St. Louis Cardinals (MLB LEAGUE PASS)
+#EXTVLCOPT:http-origin=https://allupplay.xyz
+#EXTVLCOPT:http-referrer=https://allupplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://example.com/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNS9tb25vLm0zdTg=.m3u8
 
 #EXTINF:-1 tvg-id="c3eaec9bd0b8d56030de87873b707653" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="BASEBALL",MLB : Kansas City Royals vs New York Yankees (YES USA)
 #EXTVLCOPT:http-origin=https://allupplay.xyz
